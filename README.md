@@ -1,15 +1,28 @@
-Portfolio: https://next-animated-portfolio-h3m6.vercel.app/
-Hi there 👋, my name is Giang
-I am a Fullstack developer
+# Hi there! 👋 I'm Giang
 
-Giang is a Fullstack developer with ~1 years of experience in web development. He is skilled in JavaScript, React.js, Node.js and is familiar with Scrum, Jira. He enjoys building software, sharing knowledge, and collaborating with other engineers.
+I am a Fullstack developer with around 1 year of experience in web development. Skilled in JavaScript, React.js, Node.js, and familiar with Scrum and Jira. I enjoy building software, sharing knowledge, and collaborating with other engineers.
 
-Skills: REACT / NODE.JS / NEXT.JS / MongoDB / SQL
+## Skills
 
-🔭 I’m currently freelancer
-🌱 I’m currently learning C++
-💬 Free to ask me about web, app, oop
-📫 How to reach me: 
-😄 Pronouns: He / Him
-Phone: 0834718218
-Mail: vophonggiang0205@gmail.com
+- **Frontend:** React.js, Next.js
+- **Backend:** Node.js
+- **Databases:** MongoDB, SQL
+
+## Currently
+
+- 🔭 I'm currently freelancing
+- 🌱 I'm currently learning C++
+- 💬 Feel free to ask me about web development, app development, and object-oriented programming
+
+## How to reach me
+
+- **Phone:** 0834718218
+- **Email:** vophonggiang0205@gmail.com
+
+## Portfolio
+
+Check out my portfolio [here](https://next-animated-portfolio-h3m6.vercel.app/).
+
+## Pronouns
+
+😄 He / Him
