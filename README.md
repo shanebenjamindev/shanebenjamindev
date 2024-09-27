@@ -17,7 +17,7 @@ I am a Fullstack developer with around 4 year of experience in web development. 
 ## How to reach me
 
 - **Phone:** 0834718218
-- **Email:** vophonggiang0205@gmail.com
+- **Email:** vophonggiang0205@gmail.com || vgiangph@gmail.com
 
 ## Portfolio
 
