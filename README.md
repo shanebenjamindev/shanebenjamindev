@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Giang
 
-I am a Fullstack developer with around 1 year of experience in web development. Skilled in JavaScript, React.js, Node.js, and familiar with Scrum and Jira. I enjoy building software, sharing knowledge, and collaborating with other engineers.
+I am a Fullstack developer with around 4 year of experience in web development. Skilled in JavaScript, React.js, Node.js, and familiar with Scrum and Jira. I enjoy building software, sharing knowledge, and collaborating with other engineers.
 
 ## Skills
 
